@@ -1,0 +1,100 @@
+﻿@model ViajecitosSAClienteWeb.Models.CompraVueloCompletaViewModel
+@using ViajecitosSAClienteWeb.CondorService
+
+@{
+    ViewBag.Title = "Comprar Vuelos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Buscar Vuelos</h2>
+
+@using (Html.BeginForm("Buscar", "Vuelo", FormMethod.Post))
+{
+    <div class="row mb-3">
+        <div class="col-md-4">
+            @Html.LabelFor(m => m.Busqueda.CiudadOrigen)
+            @Html.TextBoxFor(m => m.Busqueda.CiudadOrigen, new { @class = "form-control", placeholder = "Ej: UIO" })
+        </div>
+        <div class="col-md-4">
+            @Html.LabelFor(m => m.Busqueda.CiudadDestino)
+            @Html.TextBoxFor(m => m.Busqueda.CiudadDestino, new { @class = "form-control", placeholder = "Ej: GYE" })
+        </div>
+        <div class="col-md-4">
+            @Html.LabelFor(m => m.Busqueda.Fecha)
+            @Html.TextBoxFor(m => m.Busqueda.Fecha, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        </div>
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Buscar Vuelos</button>
+    </div>
+}
+
+<hr />
+
+@if (Model.Busqueda?.Resultados != null && Model.Busqueda.Resultados.Any())
+{
+    <h3 class="text-center mt-4">Vuelos Disponibles</h3>
+    <p class="text-center text-muted">Seleccione el vuelo, tipo de pago y asientos</p>
+
+    using (Html.BeginForm("ComprarVuelosMultiples", "Vuelo", FormMethod.Post))
+    {
+        for (int i = 0; i < Model.Busqueda.Resultados.Count; i++)
+        {
+            var vuelo = Model.Busqueda.Resultados[i];
+
+            <div class="card mb-3">
+                <div class="card-header bg-dark text-white">
+                    Vuelo @vuelo.Id: @vuelo.CiudadOrigen → @vuelo.CiudadDestino - $@vuelo.Valor
+                </div>
+                <div class="card-body">
+                    @Html.Hidden($"[{i}].VueloId", vuelo.Id)
+
+                    <div class="form-group row">
+                        <div class="col-md-4">
+                            <label>Cantidad de boletos:</label>
+                            <input type="number" name="[@i].Cantidad" class="form-control" value="1" min="1" required />
+                        </div>
+                        <div class="col-md-4">
+                            <label>Tipo de pago:</label>
+                            <select name="[@i].TipoPago" class="form-control">
+                                <option value="EFECTIVO">EFECTIVO</option>
+                                <option value="CREDITO">CRÉDITO</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label>Número de cuotas (si crédito):</label>
+                            <input type="number" name="[@i].NumeroCuotas" class="form-control" value="1" min="1" />
+                        </div>
+                    </div>
+
+                    <div class="form-group mt-3">
+                        <label>Asientos (ej: 1A, 2B):</label>
+                        <input type="text" name="[@i].AsientosSeleccionadosRaw" class="form-control" placeholder="Ej: 1A, 2B" required />
+                    </div>
+                </div>
+            </div>
+        }
+
+        <div class="text-center mt-3">
+            <button type="submit" class="btn btn-success">Confirmar Compra</button>
+        </div>
+    }
+}
+else if (Model.Busqueda?.Resultados != null)
+{
+    <div class="alert alert-warning text-center">No se encontraron vuelos.</div>
+}
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-success text-center">@ViewBag.Mensaje</div>
+
+    if (ViewBag.PreguntarOtraCompra != null && (bool)ViewBag.PreguntarOtraCompra)
+    {
+        <div class="text-center mt-4">
+            <p>¿Deseas comprar otro vuelo?</p>
+            <a href="@Url.Action("ComprarVuelosMultiples", "Vuelo")" class="btn btn-primary">Sí</a>
+            <a href="@Url.Action("ResumenCompra", "Vuelo", new { facturaId = ViewBag.FacturaId })" class="btn btn-secondary">No</a>
+        </div>
+    }
+}

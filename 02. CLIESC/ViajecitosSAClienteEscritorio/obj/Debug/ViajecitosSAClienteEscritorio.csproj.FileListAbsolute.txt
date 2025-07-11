@@ -1,0 +1,45 @@
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.AssemblyReference.cache
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.BuscarVuelosForm.resources
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.ComprarVuelosForm.resources
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.LoginForm.resources
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.MainForm.resources
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.Properties.Resources.resources
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.GenerateResource.cache
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe.config
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.pdb
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.exe
+C:\Users\Juanr\Desktop\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.pdb
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe.config
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.pdb
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.BuscarVuelosForm.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.ComprarVuelosForm.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.LoginForm.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.MainForm.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.Properties.Resources.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.GenerateResource.cache
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.exe
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.pdb
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.BuscarVuelosPorFiltroForm.resources
+C:\Users\Camila\Desktop\EXAMEN_GR06\01. VIAJECITOS_SOAP_DOTNET_GR06\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.FacturaForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe.config
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.exe
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\bin\Debug\ViajecitosSAClienteEscritorio.pdb
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.AssemblyReference.cache
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.BuscarVuelosForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.BuscarVuelosPorFiltroForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.ComprarVuelosForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.FacturaForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.LoginForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.MainForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.Properties.Resources.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.GenerateResource.cache
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.csproj.CoreCompileInputs.cache
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.exe
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.pdb
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.AmortizacionForm.resources
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLIESC\ViajecitosSAClienteEscritorio\obj\Debug\ViajecitosSAClienteEscritorio.ComprarVuelosMultiplesForm.resources
