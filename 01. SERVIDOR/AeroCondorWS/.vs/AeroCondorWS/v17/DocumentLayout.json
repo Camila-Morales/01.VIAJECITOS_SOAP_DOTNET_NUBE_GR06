@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\",
+  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.-viajecitos_soap_dotnet_gr06_mejorado\\01. servidor\\aerocondorws\\condorservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.viajecitos_soap_dotnet_gr06\\01. servidor\\aerocondorws\\condorservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:condorservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\vueloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\vueloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:vueloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\vuelocomprarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\vuelocomprarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:vuelocomprarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\asientoreservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\asientoreservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:asientoreservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:facturadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1CA5C0D-2954-445D-A6B5-F07118D36A9A}|AeroCondorWS.csproj|solutionrelative:vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Amortizacion.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Amortizacion.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Amortizacion.cs",
               "RelativeDocumentMoniker": "Amortizacion.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Amortizacion.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Amortizacion.cs",
               "RelativeToolTip": "Amortizacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "VueloCompraRequest.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\VueloCompraRequest.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\VueloCompraRequest.cs",
               "RelativeDocumentMoniker": "VueloCompraRequest.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\VueloCompraRequest.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\VueloCompraRequest.cs",
               "RelativeToolTip": "VueloCompraRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "VueloService.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\VueloService.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\VueloService.cs",
               "RelativeDocumentMoniker": "VueloService.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\VueloService.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\VueloService.cs",
               "RelativeToolTip": "VueloService.cs",
-              "ViewState": "AgIAAO4AAAAAAAAAAAAuwFYBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T23:18:26.677Z"
             },
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CondorService.asmx.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\CondorService.asmx.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\CondorService.asmx.cs",
               "RelativeDocumentMoniker": "CondorService.asmx.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\CondorService.asmx.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\CondorService.asmx.cs",
               "RelativeToolTip": "CondorService.asmx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T22:47:13.786Z",
               "EditorCaption": ""
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AsientoReservado.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\AsientoReservado.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\AsientoReservado.cs",
               "RelativeDocumentMoniker": "AsientoReservado.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\AsientoReservado.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\AsientoReservado.cs",
               "RelativeToolTip": "AsientoReservado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FacturaDetalle.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\FacturaDetalle.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\FacturaDetalle.cs",
               "RelativeDocumentMoniker": "FacturaDetalle.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\FacturaDetalle.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\FacturaDetalle.cs",
               "RelativeToolTip": "FacturaDetalle.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Vuelo.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Vuelo.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Vuelo.cs",
               "RelativeDocumentMoniker": "Vuelo.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Vuelo.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Vuelo.cs",
               "RelativeToolTip": "Vuelo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,13 +131,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Web.config",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\01. SERVIDOR\\AeroCondorWS\\Web.config",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\01. SERVIDOR\\AeroCondorWS\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-05-30T22:42:35.349Z",
               "EditorCaption": ""

@@ -549,10 +549,10 @@
   </wsdl:binding>
   <wsdl:service name="CondorService">
     <wsdl:port name="CondorServiceSoap" binding="tns:CondorServiceSoap">
-      <soap:address location="https://localhost:44399/CondorService.asmx" />
+      <soap:address location="http://172.20.10.7/ViajecitoSoap/CondorService.asmx" />
     </wsdl:port>
     <wsdl:port name="CondorServiceSoap12" binding="tns:CondorServiceSoap12">
-      <soap12:address location="https://localhost:44399/CondorService.asmx" />
+      <soap12:address location="http://172.20.10.7/ViajecitoSoap/CondorService.asmx" />
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>

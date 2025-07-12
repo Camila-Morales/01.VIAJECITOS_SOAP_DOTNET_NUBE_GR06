@@ -54,6 +54,7 @@
 
             <!-- Contenedor del menú colapsable -->
             <div class="collapse navbar-collapse" id="navbarMenu">
+                <!-- Dentro de la sección del menú -->
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="@Url.Action("Buscar", "Vuelo")">Buscar Vuelos</a>
@@ -62,26 +63,37 @@
                         <a class="nav-link" href="@Url.Action("BuscarPorFiltro", "Vuelo")">Buscar por Filtro</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("ComprarVuelosMultiples", "Vuelo")">Comprar Múltiples</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("ComprarConAsientos", "Vuelo", new { vueloId = 1 })">Comprar con Asientos</a>
+                    </li> -->
+                    <li class="nav-item">
                         <a class="nav-link" href="@Url.Action("VerFactura", "Vuelo")">Ver Factura</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("VerAmortizacion", "Vuelo", new { facturaId = 1 })">Ver Amortización</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="@Url.Action("Login", "Cuenta")">Cerrar Sesión</a>
                     </li>
                 </ul>
+                </div>
             </div>
+        </nav>
+
+
+
+        <div class="container main-container">
+            @RenderBody()
         </div>
-    </nav>
 
+        <div class="footer">
+            © @DateTime.Now.Year Viajecitos SA - Todos los derechos reservados
+        </div>
 
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+        @RenderSection("Scripts", required: false)
 
-    <div class="container main-container">
-        @RenderBody()
-    </div>
-
-    <div class="footer">
-        © @DateTime.Now.Year Viajecitos SA - Todos los derechos reservados
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+    </body>
+    </html>

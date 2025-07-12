@@ -1,0 +1,22 @@
+﻿@model ViajecitosSAClienteWeb.Models.CompraConAsientosViewModel
+
+@{
+    ViewBag.Title = "Seleccionar Asientos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class="text-center mb-4">Selecciona tus asientos</h3>
+
+<p><strong>Asientos ocupados:</strong> @string.Join(", ", Model.AsientosOcupados)</p>
+
+@using (Html.BeginForm("ComprarVueloConAsientos", "Vuelo", FormMethod.Post))
+{
+    @Html.Hidden("vueloId", Model.VueloId)
+
+    <div class="form-group">
+        <label for="asientosInput">Asientos a comprar (ej: 1A, 2B):</label>
+        <input type="text" name="asientosInput" id="asientosInput" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Confirmar Compra</button>
+}

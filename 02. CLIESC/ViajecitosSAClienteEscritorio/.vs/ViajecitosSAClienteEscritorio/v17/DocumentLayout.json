@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\",
+  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.viajecitos_soap_dotnet_gr06\\02. cliesc\\viajecitossaclienteescritorio\\comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosmultiplesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.-viajecitos_soap_dotnet_gr06_mejorado\\02. cliesc\\viajecitossaclienteescritorio\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:comprarvuelosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:amortizacionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:facturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:buscarvuelosporfiltroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24A9A9F-AE86-4504-B68A-742220B7D7C2}|ViajecitosSAClienteEscritorio.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,100 +82,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ComprarVuelosMultiplesForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
               "RelativeDocumentMoniker": "ComprarVuelosMultiplesForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
               "RelativeToolTip": "ComprarVuelosMultiplesForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T20:27:29.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T16:10:12.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ComprarVuelosMultiplesForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs",
               "RelativeDocumentMoniker": "ComprarVuelosMultiplesForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ComprarVuelosMultiplesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosMultiplesForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T19:33:09.07Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FacturaForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
-              "RelativeDocumentMoniker": "FacturaForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FacturaForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:28:36.16Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BuscarVuelosForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
-              "RelativeDocumentMoniker": "BuscarVuelosForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
-              "RelativeToolTip": "BuscarVuelosForm.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:22:14.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BuscarVuelosForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
-              "RelativeDocumentMoniker": "BuscarVuelosForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "BuscarVuelosForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:57:59.911Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-11T19:33:09.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FacturaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
+              "RelativeDocumentMoniker": "FacturaForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:28:36.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscarVuelosForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
+              "RelativeDocumentMoniker": "BuscarVuelosForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
+              "RelativeToolTip": "BuscarVuelosForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:22:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuscarVuelosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs",
+              "RelativeDocumentMoniker": "BuscarVuelosForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:57:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T16:02:38.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:56:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ComprarVuelosForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
               "RelativeDocumentMoniker": "ComprarVuelosForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
               "RelativeToolTip": "ComprarVuelosForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,33 +191,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ComprarVuelosForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs",
               "RelativeDocumentMoniker": "ComprarVuelosForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ComprarVuelosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\ComprarVuelosForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T16:25:10.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AmortizacionForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
               "RelativeDocumentMoniker": "AmortizacionForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AmortizacionForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T19:45:58.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AmortizacionForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
               "RelativeDocumentMoniker": "AmortizacionForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\AmortizacionForm.cs",
               "RelativeToolTip": "AmortizacionForm.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,22 +225,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LoginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T23:21:55.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FacturaForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
               "RelativeDocumentMoniker": "FacturaForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\FacturaForm.cs",
               "RelativeToolTip": "FacturaForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\Program.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\Program.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BuscarVuelosPorFiltroForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
               "RelativeDocumentMoniker": "BuscarVuelosPorFiltroForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
               "RelativeToolTip": "BuscarVuelosPorFiltroForm.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,24 +272,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\LoginForm.cs",
-              "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:56:58.36Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BuscarVuelosPorFiltroForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs",
               "RelativeDocumentMoniker": "BuscarVuelosPorFiltroForm.cs",
               "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "BuscarVuelosPorFiltroForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\BuscarVuelosPorFiltroForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T22:51:00.6Z"
             },
@@ -289,9 +285,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIESC\\ViajecitosSAClienteEscritorio\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

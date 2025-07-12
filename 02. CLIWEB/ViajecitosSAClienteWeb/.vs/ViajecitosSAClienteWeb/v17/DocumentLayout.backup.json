@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\",
+  "WorkspaceRootPath": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.-viajecitos_soap_dotnet_gr06_mejorado\\02. cliweb\\viajecitossaclienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|d:\\aquitectura\\viajecitos_nube_gr06\\01.viajecitos_soap_dotnet_gr06\\02. cliweb\\viajecitossaclienteweb\\controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:controllers\\vuelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\vuelo\\comprarvuelosmultiples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\vuelo\\comprarvuelosmultiples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\vuelo\\comprarvuelosmultiples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\vuelo\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\vuelo\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\vuelo\\buscar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\views\\vuelo\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:views\\vuelo\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\confirmacioncompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\confirmacioncompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:models\\confirmacioncompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\compravuelomultipleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\models\\compravuelomultipleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D14BA118-445E-4946-9AC4-6DB5B2CCEEA6}|ViajecitosSAClienteWeb.csproj|solutionrelative:models\\compravuelomultipleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,28 +50,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T15:12:09.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:12:09.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -75,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -87,11 +90,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "VueloController.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Controllers\\VueloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VueloController.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Controllers\\VueloController.cs",
+              "RelativeToolTip": "Controllers\\VueloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:02:11.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buscar.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Buscar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vuelo\\Buscar.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Buscar.cshtml",
+              "RelativeToolTip": "Views\\Vuelo\\Buscar.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T23:09:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Confirmacion.cshtml",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Confirmacion.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Confirmacion.cshtml",
               "RelativeDocumentMoniker": "Views\\Vuelo\\Confirmacion.cshtml",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Confirmacion.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\Confirmacion.cshtml",
               "RelativeToolTip": "Views\\Vuelo\\Confirmacion.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ConfirmacionCompraViewModel.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\ConfirmacionCompraViewModel.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\ConfirmacionCompraViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ConfirmacionCompraViewModel.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\ConfirmacionCompraViewModel.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\ConfirmacionCompraViewModel.cs",
               "RelativeToolTip": "Models\\ConfirmacionCompraViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Factura.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\Factura.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\Factura.cs",
               "RelativeDocumentMoniker": "Models\\Factura.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\Factura.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\Factura.cs",
               "RelativeToolTip": "Models\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,35 +151,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VueloController.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Controllers\\VueloController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VueloController.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Controllers\\VueloController.cs",
-              "RelativeToolTip": "Controllers\\VueloController.cs",
-              "ViewState": "AgIAAP4AAAAAAAAAAAAowBIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T23:02:11.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ComprarVuelosMultiples.cshtml",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
               "RelativeDocumentMoniker": "Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
               "RelativeToolTip": "Views\\Vuelo\\ComprarVuelosMultiples.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T14:06:29.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CompraVueloMultipleViewModel.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\CompraVueloMultipleViewModel.cs",
+              "DocumentMoniker": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\CompraVueloMultipleViewModel.cs",
               "RelativeDocumentMoniker": "Models\\CompraVueloMultipleViewModel.cs",
-              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\CompraVueloMultipleViewModel.cs",
+              "ToolTip": "D:\\Aquitectura\\VIAJECITOS_NUBE_GR06\\01.VIAJECITOS_SOAP_DOTNET_GR06\\02. CLIWEB\\ViajecitosSAClienteWeb\\Models\\CompraVueloMultipleViewModel.cs",
               "RelativeToolTip": "Models\\CompraVueloMultipleViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

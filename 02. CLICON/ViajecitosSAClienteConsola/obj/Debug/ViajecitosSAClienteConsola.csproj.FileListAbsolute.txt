@@ -26,3 +26,10 @@ D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02.
 D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.csproj.CoreCompileInputs.cache
 D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.exe
 D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.-VIAJECITOS_SOAP_DOTNET_GR06_Mejorado\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.pdb
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\bin\Debug\ViajecitosSAClienteConsola.exe.config
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\bin\Debug\ViajecitosSAClienteConsola.exe
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\bin\Debug\ViajecitosSAClienteConsola.pdb
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.csproj.AssemblyReference.cache
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.csproj.CoreCompileInputs.cache
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.exe
+D:\Aquitectura\VIAJECITOS_NUBE_GR06\01.VIAJECITOS_SOAP_DOTNET_GR06\02. CLICON\ViajecitosSAClienteConsola\obj\Debug\ViajecitosSAClienteConsola.pdb

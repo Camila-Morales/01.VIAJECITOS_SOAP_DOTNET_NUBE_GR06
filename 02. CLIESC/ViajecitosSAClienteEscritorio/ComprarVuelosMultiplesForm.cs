@@ -135,12 +135,29 @@ namespace ViajecitosSAClienteEscritorio
             try
             {
                 string respuesta = client.ComprarVuelosMultiples(new[] { compra });
-                MessageBox.Show("Resultado: " + respuesta);
+                MessageBox.Show("Resultado: " + respuesta, "Compra exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                // Preguntar si desea comprar otro vuelo
+                var continuar = MessageBox.Show("¿Desea comprar otro vuelo?", "Continuar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (continuar == DialogResult.Yes)
+                {
+                    // Limpiar campos para una nueva compra
+                    txtCantidad.Text = "";
+                    numericCuotas.Value = 1;
+                    comboTipoPago.SelectedIndex = 0;
+                    lstAsientos.Items.Clear();
+                    lblMensaje.Text = "";
+                }
+                else
+                {
+                    this.Close(); // o puedes volver al menú principal
+                }
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Error en la compra: " + ex.Message);
             }
+
         }
 
 

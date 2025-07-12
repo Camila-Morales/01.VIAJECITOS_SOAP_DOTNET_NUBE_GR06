@@ -1,26 +1,73 @@
 ﻿@model ViajecitosSAClienteWeb.Models.ConfirmacionCompraViewModel
 
 @{
-    ViewBag.Title = "Compra Exitosa";
+    ViewBag.Title = "Confirmación de Compra";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h3 class="text-center text-success">¡Compra realizada con éxito!</h3>
 
-@if (Model.Vuelo != null)
+@if (!string.IsNullOrEmpty(Model?.Mensaje))
+{
+    <div class="alert alert-info text-center mt-3">@Model.Mensaje</div>
+}
+
+@if (Model?.Factura != null)
+{
+    <div class="text-center mt-4">
+        <p><strong>Número de Factura:</strong> @Model.Factura.Id</p>
+        <p><strong>Nombre:</strong> @Model.Factura.NombreUsuario</p>
+        <p><strong>Origen:</strong> @Model.Factura.CiudadOrigen</p>
+        <p><strong>Destino:</strong> @Model.Factura.CiudadDestino</p>
+        <p><strong>Salida:</strong> @Model.Factura.HoraSalida</p>
+        <p><strong>Precio unitario:</strong> $@Model.Factura.PrecioUnitario</p>
+        <p><strong>Cantidad:</strong> @Model.Factura.Cantidad</p>
+        <p><strong>Total:</strong> $@Model.Factura.PrecioTotal</p>
+        @* Puedes agregar aquí el tipo de pago si lo incluyes en FacturaModel *@
+    </div>
+}
+else if (Model?.Vuelo != null)
 {
     <div class="text-center mt-3">
-        <p>@Model.Mensaje</p>
         <p>Vuelo de <strong>@Model.Vuelo.CiudadOrigen</strong> a <strong>@Model.Vuelo.CiudadDestino</strong></p>
         <p>Salida: @Model.Vuelo.HoraSalida</p>
         <p>Precio unitario: <strong>$@Model.Vuelo.Valor</strong></p>
         <p>Cantidad de boletos: <strong>@Model.Cantidad</strong></p>
         <p>Total: <strong>$@(Model.Vuelo.Valor * Model.Cantidad)</strong></p>
-
-        <a href="@Url.Action("Buscar", "Vuelo")" class="btn btn-outline-secondary mt-4">Volver a buscar</a>
     </div>
 }
-else
+
+@if (Model?.Amortizacion != null && Model.Amortizacion.Length > 0)
 {
-    <div class="alert alert-danger text-center mt-3">Error: No se pudo mostrar el vuelo.</div>
+    <div class="mt-4">
+        <h4 class="text-center">Tabla de Amortización</h4>
+        <table class="table table-bordered text-center mt-3">
+            <thead class="table-dark">
+                <tr>
+                    <th>Cuota</th>
+                    <th>Fecha de Pago</th>
+                    <th>Monto</th>
+                    <th>Saldo Restante</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cuota in Model.Amortizacion)
+                {
+                    <tr>
+                        <td>@cuota.NumeroCuota</td>
+                        <td>@cuota.FechaPago.ToShortDateString()</td>
+                        <td>$@cuota.MontoCuota</td>
+                        <td>$@cuota.SaldoRestante</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
 }
+
+<div class="text-center mt-5">
+    <h5>¿Desea comprar otro vuelo?</h5>
+    <a href="@Url.Action("Buscar", "Vuelo")" class="btn btn-outline-primary mx-2">Sí</a>
+    <a href="@Url.Action("VerFactura", "Vuelo", new { facturaId = Model?.Factura?.Id ?? 0 })" class="btn btn-outline-secondary mx-2">No</a>
+</div>
+
