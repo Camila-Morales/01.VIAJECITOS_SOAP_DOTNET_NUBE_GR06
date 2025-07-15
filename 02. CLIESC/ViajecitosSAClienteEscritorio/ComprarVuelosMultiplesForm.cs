@@ -16,6 +16,7 @@ namespace ViajecitosSAClienteEscritorio
         private readonly string usuario;
         private readonly CondorServiceSoapClient client = new CondorServiceSoapClient();
         private Vuelo[] vuelosDisponibles;
+        private List<DateTime> fechasCompradas = new List<DateTime>();
         private Label lblAsientos;
         private CheckedListBox lstAsientos;
 
@@ -77,6 +78,81 @@ namespace ViajecitosSAClienteEscritorio
             }
         }
 
+        //VALIDACION
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (gridVuelos.CurrentRow == null)
+            {
+                lblMensaje.Text = "Selecciona un vuelo.";
+                return;
+            }
+
+            if (!int.TryParse(txtCantidad.Text, out int cantidad) || cantidad <= 0)
+            {
+                lblMensaje.Text = "Ingrese una cantidad válida de boletos.";
+                return;
+            }
+
+            if (!ValidarCantidadAsientos(cantidad))
+                return;
+
+            var tipoPago = comboTipoPago.SelectedItem.ToString();
+            var cuotas = (int)numericCuotas.Value;
+            var vuelo = (Vuelo)gridVuelos.CurrentRow.DataBoundItem;
+
+            // ❗ Validar si ya se compró un vuelo en esa fecha
+            DateTime fechaVuelo = vuelo.HoraSalida.Date;
+            if (fechasCompradas.Contains(fechaVuelo))
+            {
+                MessageBox.Show("❌ Ya tiene una compra para esa fecha. No puede adquirir otro vuelo el mismo día.", "Fecha Duplicada", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // ✅ Convertir los asientos seleccionados a ArrayOfString
+            var asientosSeleccionados = new ArrayOfString();
+            asientosSeleccionados.AddRange(lstAsientos.CheckedItems.Cast<string>());
+
+            var compra = new VueloCompraRequest
+            {
+                VueloId = vuelo.Id,
+                UsuarioId = 1, // puedes reemplazar con lógica de sesión real
+                Cantidad = cantidad,
+                TipoPago = tipoPago,
+                NumeroCuotas = tipoPago == "CREDITO" ? cuotas : 0,
+                AsientosSeleccionados = asientosSeleccionados
+            };
+
+            try
+            {
+                string respuesta = client.ComprarVuelosMultiples(new[] { compra });
+                MessageBox.Show("Resultado: " + respuesta, "Compra exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                // ✅ Guardamos la fecha para evitar futuras compras duplicadas
+                fechasCompradas.Add(fechaVuelo);
+
+                // Preguntar si desea comprar otro vuelo
+                var continuar = MessageBox.Show("¿Desea comprar otro vuelo?", "Continuar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (continuar == DialogResult.Yes)
+                {
+                    // Limpiar campos para una nueva compra
+                    txtCantidad.Text = "";
+                    numericCuotas.Value = 1;
+                    comboTipoPago.SelectedIndex = 0;
+                    lstAsientos.Items.Clear();
+                    lblMensaje.Text = "";
+                }
+                else
+                {
+                    this.Close(); // o puedes volver al menú principal
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error en la compra: " + ex.Message);
+            }
+        }
+
+
         private void gridVuelos_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
@@ -97,7 +173,7 @@ namespace ViajecitosSAClienteEscritorio
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        /*private void button1_Click(object sender, EventArgs e)
         {
             if (gridVuelos.CurrentRow == null)
             {
@@ -158,7 +234,7 @@ namespace ViajecitosSAClienteEscritorio
                 MessageBox.Show("Error en la compra: " + ex.Message);
             }
 
-        }
+        }*/
 
 
         private List<string> GenerarAsientos()

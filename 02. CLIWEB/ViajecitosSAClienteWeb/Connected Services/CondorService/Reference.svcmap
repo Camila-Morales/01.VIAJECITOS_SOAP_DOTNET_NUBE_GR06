@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="c8aa1731-0fbd-47b0-acd2-064273d9c43e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8c19ebcb-e6d6-48df-a170-fee8ad65cdce" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -19,11 +19,11 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://172.20.10.7/ViajecitoSoap/CondorService.asmx" Protocol="http" SourceId="1" />
+    <MetadataSource Address="https://localhost:44399/CondorService.asmx" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="CondorService.disco" MetadataType="Disco" ID="4883d267-6f3d-4d5b-8812-901a1727fa80" SourceId="1" SourceUrl="http://172.20.10.7/ViajecitoSoap/CondorService.asmx?disco" />
-    <MetadataFile FileName="CondorService.wsdl" MetadataType="Wsdl" ID="986e6587-580b-44dd-8d63-287325f0b48a" SourceId="1" SourceUrl="http://172.20.10.7/ViajecitoSoap/CondorService.asmx?wsdl" />
+    <MetadataFile FileName="CondorService.disco" MetadataType="Disco" ID="0457fde0-aab5-4aeb-a562-4edb93a01c30" SourceId="1" SourceUrl="https://localhost:44399/CondorService.asmx?disco" />
+    <MetadataFile FileName="CondorService.wsdl" MetadataType="Wsdl" ID="11f08b9d-a631-4fc2-b5ff-2e265a91d9e2" SourceId="1" SourceUrl="https://localhost:44399/CondorService.asmx?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

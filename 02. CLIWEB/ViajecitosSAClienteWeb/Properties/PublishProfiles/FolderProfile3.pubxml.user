@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\ViajecitoWeb</_PublishTargetUrl>
-    <History>True|2025-07-12T23:30:49.7847135Z||;</History>
+    <History>True|2025-07-15T13:24:19.9937110Z||;False|2025-07-15T08:23:16.0730867-05:00||;True|2025-07-12T18:30:49.7847135-05:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -212,58 +212,58 @@
       <publishTime>05/27/2022 23:42:50</publishTime>
     </File>
     <File Include="bin/ViajecitosSAClienteWeb.dll">
-      <publishTime>07/12/2025 18:30:48</publishTime>
+      <publishTime>07/15/2025 08:24:18</publishTime>
     </File>
     <File Include="bin/ViajecitosSAClienteWeb.pdb">
-      <publishTime>07/12/2025 18:30:48</publishTime>
+      <publishTime>07/15/2025 08:24:18</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 13:57:34</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.Amortizacion.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:10</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ArrayOfString.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:10</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ComprarVueloConAsientosResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ComprarVueloConCantidadResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ComprarVueloResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ComprarVuelosMultiplesResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.Factura.datasource">
-      <publishTime>07/12/2025 18:29:31</publishTime>
+      <publishTime>07/14/2025 16:08:10</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.LoginResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerAmortizacionPorFacturaIdResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerAsientosOcupadosResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerFacturaPorIdResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerVueloPorIdResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerVuelosPorFiltroResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:11</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.ObtenerVuelosResponse.datasource">
-      <publishTime>07/12/2025 18:29:32</publishTime>
+      <publishTime>07/14/2025 16:08:10</publishTime>
     </File>
     <File Include="Connected Services/CondorService/ViajecitosSAClienteWeb.CondorService.Vuelo.datasource">
-      <publishTime>07/12/2025 18:29:31</publishTime>
+      <publishTime>07/14/2025 16:08:10</publishTime>
     </File>
     <File Include="Content/bootstrap-grid.css">
       <publishTime>05/30/2025 19:00:12</publishTime>
@@ -488,7 +488,7 @@
       <publishTime>05/30/2025 19:00:08</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/12/2025 18:30:49</publishTime>
+      <publishTime>07/15/2025 08:23:15</publishTime>
     </File>
   </ItemGroup>
 </Project>

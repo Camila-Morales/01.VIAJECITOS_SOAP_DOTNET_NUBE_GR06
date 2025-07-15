@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="9.1" CheckSum="EIYdjnpGhwso2FuhPA1MO2nf/lggSVC89W2s606zG1A=">
+<SavedWcfConfigurationInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="9.1" CheckSum="HKf9J2ioobdf+I7jEXKYWlFiPDPJCnwOkqFi6MwXuiM=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="basicHttpBinding" name="CondorServiceSoap">
       <properties>
@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="CondorServiceSoap" contract="CondorService.CondorServiceSoap" bindingType="basicHttpBinding" address="http://172.20.10.7/ViajecitoSoap/CondorService.asmx" bindingConfiguration="CondorServiceSoap">
+    <endpoint name="CondorServiceSoap" contract="CondorService.CondorServiceSoap" bindingType="basicHttpBinding" address="http://10.40.14.80/ViajecitoSoap/CondorService.asmx" bindingConfiguration="CondorServiceSoap">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://172.20.10.7/ViajecitoSoap/CondorService.asmx</serializedValue>
+          <serializedValue>http://10.40.14.80/ViajecitoSoap/CondorService.asmx</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

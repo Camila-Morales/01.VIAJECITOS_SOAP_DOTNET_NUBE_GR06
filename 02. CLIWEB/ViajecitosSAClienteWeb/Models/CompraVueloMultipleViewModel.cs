@@ -7,7 +7,7 @@ namespace ViajecitosSAClienteWeb.Models
 {
     public class CompraVueloMultipleViewModel
     {
-        public List<VueloViewModel> VuelosDisponibles { get; set; }  // Para desplegar en dropdown
+        public List<VueloViewModel> VuelosDisponibles { get; set; }
         public List<VueloCompraRequestModel> Compras { get; set; } = new List<VueloCompraRequestModel>();
 
         // Propiedades para el vuelo actual que se quiere agregar

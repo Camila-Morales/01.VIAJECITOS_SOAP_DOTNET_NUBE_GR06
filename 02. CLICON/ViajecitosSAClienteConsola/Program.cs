@@ -9,6 +9,8 @@ namespace ViajecitosSAClienteConsola
     {
         static CondorServiceSoapClient client = new CondorServiceSoapClient();
         static int usuarioId = 1; // Puedes pedir esto luego del login
+        static List<DateTime> fechasCompradas = new List<DateTime>();
+
 
         static void Main(string[] args)
         {
@@ -229,7 +231,7 @@ namespace ViajecitosSAClienteConsola
             Console.ReadKey();
         }
 
-        static void ComprarVuelosMultiples()
+        /*static void ComprarVuelosMultiples()
         {
             var compras = new List<VueloCompraRequest>();
 
@@ -355,7 +357,145 @@ namespace ViajecitosSAClienteConsola
             Console.WriteLine(mensajeAsientos);
             Console.WriteLine("Presione una tecla para continuar...");
             Console.ReadKey();
+        }*/
+
+        static void ComprarVuelosMultiples()
+        {
+            var compras = new List<VueloCompraRequest>();
+            bool seguirComprando = true;
+
+            while (seguirComprando)
+            {
+                Console.Clear();
+                Console.WriteLine("=== COMPRA DE VUELOS ===");
+
+                Console.Write("Ingrese el ID del vuelo que desea comprar: ");
+                if (!int.TryParse(Console.ReadLine(), out int vueloId))
+                {
+                    Console.WriteLine("ID de vuelo inválido.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                // Obtener vuelo para validar fecha
+                var vuelo = client.ObtenerVueloPorId(vueloId); // Asegúrate de tener este método en el backend
+                DateTime fechaVuelo = vuelo.HoraSalida.Date;
+
+                if (fechasCompradas.Contains(fechaVuelo))
+                {
+                    Console.WriteLine("❌ Ya tiene un vuelo registrado para esta fecha. No puede comprar otro.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                Console.Write("Ingrese la cantidad de boletos a comprar: ");
+                if (!int.TryParse(Console.ReadLine(), out int cantidad) || cantidad <= 0)
+                {
+                    Console.WriteLine("Cantidad inválida.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                var asientosOcupados = client.ObtenerAsientosOcupados(vueloId).ToList();
+                Console.WriteLine("Asientos ocupados actualmente: " + (asientosOcupados.Count == 0 ? "Ninguno" : string.Join(", ", asientosOcupados)));
+
+                Console.WriteLine($"Seleccione exactamente {cantidad} asientos separados por coma (ejemplo: A1,A2,B3):");
+                var asientosInput = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(asientosInput))
+                {
+                    Console.WriteLine("No seleccionó ningún asiento.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                var asientosSeleccionados = asientosInput
+                    .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(a => a.Trim().ToUpper())
+                    .Distinct()
+                    .ToList();
+
+                if (asientosSeleccionados.Count != cantidad)
+                {
+                    Console.WriteLine($"Debe seleccionar exactamente {cantidad} asientos.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                if (asientosSeleccionados.Any(a => asientosOcupados.Contains(a)))
+                {
+                    Console.WriteLine("Alguno de los asientos seleccionados ya está ocupado. Operación cancelada.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                Console.Write("Tipo de pago (EFECTIVO/CREDITO): ");
+                string tipoPago = Console.ReadLine().Trim().ToUpper();
+                if (tipoPago != "EFECTIVO" && tipoPago != "CREDITO")
+                {
+                    Console.WriteLine("Tipo de pago inválido.");
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                    continue;
+                }
+
+                int numeroCuotas = 0;
+                if (tipoPago == "CREDITO")
+                {
+                    Console.Write("Número de cuotas (mínimo 1): ");
+                    if (!int.TryParse(Console.ReadLine(), out numeroCuotas) || numeroCuotas < 1)
+                    {
+                        Console.WriteLine("Número de cuotas inválido.");
+                        Console.WriteLine("Presione una tecla para continuar...");
+                        Console.ReadKey();
+                        continue;
+                    }
+                }
+
+                var compra = new VueloCompraRequest
+                {
+                    VueloId = vueloId,
+                    UsuarioId = usuarioId,
+                    Cantidad = cantidad,
+                    TipoPago = tipoPago,
+                    NumeroCuotas = numeroCuotas,
+                    AsientosSeleccionados = new ArrayOfString()
+                };
+
+                foreach (var asiento in asientosSeleccionados)
+                {
+                    compra.AsientosSeleccionados.Add(asiento);
+                }
+
+                compras.Add(compra);
+
+                // ✅ Guardamos la fecha para evitar futuras compras duplicadas en esta sesión
+                fechasCompradas.Add(fechaVuelo);
+
+                Console.Write("¿Desea agregar otro vuelo? (S/N): ");
+                var respuesta = Console.ReadLine().Trim().ToUpper();
+                if (respuesta != "S")
+                    seguirComprando = false;
+            }
+
+            string resultado = client.ComprarVuelosMultiples(compras.ToArray());
+
+            var asientosElegidos = compras.SelectMany(c => c.AsientosSeleccionados).Distinct().ToList();
+            string mensajeAsientos = asientosElegidos.Count > 0
+                ? "Asientos seleccionados: " + string.Join(", ", asientosElegidos)
+                : "No se seleccionaron asientos.";
+
+            Console.WriteLine("\n" + resultado);
+            Console.WriteLine(mensajeAsientos);
+            Console.WriteLine("Presione una tecla para continuar...");
+            Console.ReadKey();
         }
+
 
 
         static void VerAmortizacion()

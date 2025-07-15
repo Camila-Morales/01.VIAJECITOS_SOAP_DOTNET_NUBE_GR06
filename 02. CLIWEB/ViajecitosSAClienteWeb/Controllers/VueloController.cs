@@ -9,7 +9,6 @@ using FacturaModel = ViajecitosSAClienteWeb.Models.Factura;
 using System.Text.RegularExpressions;
 
 
-
 namespace ViajecitosSAClienteWeb.Controllers
 {
     public class VueloController : Controller
@@ -241,7 +240,6 @@ namespace ViajecitosSAClienteWeb.Controllers
                 return View("ComprarVuelosMultiples", new CompraVueloCompletaViewModel());
             }
         }
-
 
         public ActionResult ResumenCompra(int? facturaId)
         {
